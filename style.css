@@ -8,5 +8,5 @@
 }
 
 .second-section-li {
-  @apply flex flex-col w-[314px] h-[148px] font-bold border cursor-pointer bg-white hover:text-blue-600 hover:shadow-lg hover:shadow-blue-200 rounded-2xl items-center justify-center;
+  @apply flex w-[314px] h-[148px] font-bold border cursor-pointer bg-white hover:text-blue-600 hover:shadow-lg hover:shadow-blue-200 rounded-2xl items-center justify-center;
 }
